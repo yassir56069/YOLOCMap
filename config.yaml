@@ -1,0 +1,8 @@
+path: C:/yolocmapmodel/archive/data
+train: images/train #train images (relative to 'path')
+val: images/train #validation images (relative to 'path')
+
+
+#Classes
+names:
+  0: Car
