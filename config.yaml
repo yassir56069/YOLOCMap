@@ -3,6 +3,6 @@ train: images/train #train images (relative to 'path')
 val: images/train #validation images (relative to 'path')
 
 
-#Classes
 names:
-  0: Car
+  0: car
+  1: pool

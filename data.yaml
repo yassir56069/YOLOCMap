@@ -1,0 +1,14 @@
+path: C:/yolocmapmodel2
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 10
+names: ['boat', 'camping car', 'car', 'motorcycle', 'other', 'pickup', 'plane', 'tractor', 'truck', 'van']
+
+roboflow:
+  workspace: chargepoly
+  project: vehicle-detection-from-satellite
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/chargepoly/vehicle-detection-from-satellite/dataset/1
